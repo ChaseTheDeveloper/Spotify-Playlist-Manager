@@ -2,7 +2,11 @@
 
 A powerful Python tool for managing your Spotify playlists with advanced features like CSV importing, duplicate removal, and detailed playlist analysis.
 
+# IMPORTANT MUST READ OR SCRIPT WONT WORK
+!!! TO START OFF YOU NEED TO NAVIGATE TO "C:\Users\(user)\Downloads\Spotify-Playlist-Manager-main.zip\Spotify-Playlist-Manager-main\SPM-Chase.zip\SPM-Chase" AND EXTRACT THE "SPM-Chase" FOLDER INTO THE DOWNLOADS FOLDER OR ANOTHER FOLDER FOR YOU TO ACCESS !!!
+
 ## 📋 Table of Contents
+- [MUST READ](#important-must-read-or-script-wont-work)
 - [What This Tool Does](#what-this-tool-does)
 - [Prerequisites](#prerequisites)
 - [Installation Guide](#installation-guide)
@@ -47,7 +51,7 @@ Before you start, you need:
 3. Wait for installation to complete
 
 ### Step 3: Download the Tool
-1. Download the `spotify_playlist_manager.py` file
+1. Download the zip
 2. Save it to a folder like `C:\Users\YourName\Downloads\SPM-Chase\`
 
 ## 🔑 Spotify API Setup
