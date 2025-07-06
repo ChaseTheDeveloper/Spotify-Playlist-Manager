@@ -127,7 +127,8 @@ C:\Users\YourName\Downloads\SPM-Chase\
 ├── Duplicates\        # Duplicate removal reports  
 ├── Playlist\          # CSV import reports
 ├── cache\             # Saved credentials and tokens
-└── spotify_playlist_manager.py
+└── spm.py
+└── setup.py
 ```
 
 ## 📊 CSV Format
@@ -135,18 +136,14 @@ C:\Users\YourName\Downloads\SPM-Chase\
 Your CSV file should look like this:
 
 ```csv
-Artist,Song,Why_youll_like_it
-Metallica,Master of Puppets,Classic thrash metal
-Iron Maiden,The Trooper,Epic guitar work
-AC/DC,Back in Black,Hard rock anthem
-# This is a comment - lines starting with # are ignored
-Queen,Bohemian Rhapsody,Epic masterpiece
+Artist,Song,comment
+Miley Cyrus,Party in the U.S.A.,I recommend using AI to create your playlist unless 
+Miley Cyrus,The Climb,you wanna type it all yourself. and have the AI get rid of the comment (this)
 ```
 
 **Requirements**:
 - Must have "Artist" and "Song" columns (case-sensitive)
 - Additional columns are okay (they'll be ignored)
-- Lines starting with `#` are treated as comments
 - Save as `.csv` format in Excel or Google Sheets
 
 ## 🔧 Troubleshooting
